@@ -8,8 +8,4 @@ public class Lab1 {
 	}
 
 }
-class Return{
-	public int m1(int a[]) {
-		return new int{1,3,6,8,9};
-	}
-}
+
